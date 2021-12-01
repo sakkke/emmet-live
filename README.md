@@ -4,7 +4,7 @@
 
 ## Features
 
-- Live preview the entered Emmet
+- Automatically convert the entered Emmet to HTML
 
 ## License
 
