@@ -5,6 +5,7 @@
 ## Features
 
 - Automatically convert the entered Emmet to HTML
+- Installable as PWA
 
 ## License
 
